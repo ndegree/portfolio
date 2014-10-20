@@ -1,0 +1,29 @@
+body {
+  color: #666756;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+hr {
+  border-top: 3px #bcbbbb solid;
+}
+
+.text-muted {
+  color: #bcbbbb;
+}
+
+.text-normal {
+  color: #666756;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.title-lg {
+  font-size: 60px;
+}
+
+.title-logo {
+  margin-top: 20px;
+}
